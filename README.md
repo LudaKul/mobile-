@@ -1,10 +1,14 @@
-# [Тестирование мобильных приложений](https://docs.google.com/spreadsheets/d/1wkNCCtiGh2E8ShCaxdNPiW2pE1YTmVJIK620VuAWe3k/edit?usp=sharing)
+# Работа с мобильным приложением
 
-# [Итоговый отчет по результатам тестирования мобильного приложения](https://docs.google.com/document/d/1gzPaK2OUNz7NNAmSyxnu0kUaifQV90gL/edit?usp=sharing&ouid=108168755687522655607&rtpof=true&sd=true)
+[Тестирование мобильных приложений](https://docs.google.com/spreadsheets/d/1wkNCCtiGh2E8ShCaxdNPiW2pE1YTmVJIK620VuAWe3k/edit?usp=sharing)
 
-# [Подмена ответа на удаление товара](https://drive.google.com/file/d/14pFQ17SmJYv0Wwdi_Yw51HydeYbnWtiX/view?usp=sharing)
+[Итоговый отчет по результатам тестирования мобильного приложения](https://docs.google.com/document/d/1gzPaK2OUNz7NNAmSyxnu0kUaifQV90gL/edit?usp=sharing&ouid=108168755687522655607&rtpof=true&sd=true)
 
-# [Ответ сервера в виде картинки](https://drive.google.com/file/d/1r66Aq57SdCLVh27hnCFo0w8P2q3OZ6XE/view?usp=sharing)
+# Перехват трафика мобильного приложения через Charles Proxy
 
-# [Информация о данных моб.браузера](https://drive.google.com/file/d/1K0aWF5V0liwIn2OjkZFf8cuHu_nRLTba/view?usp=sharing)
+[Подмена ответа на удаление товара](https://drive.google.com/file/d/14pFQ17SmJYv0Wwdi_Yw51HydeYbnWtiX/view?usp=sharing)
+
+[Ответ сервера в виде картинки](https://drive.google.com/file/d/1r66Aq57SdCLVh27hnCFo0w8P2q3OZ6XE/view?usp=sharing)
+
+[Информация о данных моб.браузера](https://drive.google.com/file/d/1K0aWF5V0liwIn2OjkZFf8cuHu_nRLTba/view?usp=sharing)
 
